@@ -1,0 +1,12 @@
+# BOOKS REGARDING THE TOPICS
+- The Elements of Statistical Learning By Astie et al.
+- Artificial Intelligence, A Modern Approach (3rd Edition)
+- The Deep Learning Book
+- Python Data Science Handbook: Essential Tools for Working with Data
+- Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems
+- Deep Learning with Pytorch
+- Statistics done wrong? [Statistics Done Wrong](https://www.statisticsdonewrong.com/)
+- MACHINE LEARNING MASTERY - [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
+- Python Book - [Python Book](https://drive.google.com/file/d/1lYVyQs7jiPChQrJdd3MjbIgSJwMVuL1y/view?usp=sharing)
+- ML Mathematics [BOOK](https://mml-book.github.io/)
+- Hands On ML (book) [Hands On ML](https://github.com/ageron/handson-ml3)
